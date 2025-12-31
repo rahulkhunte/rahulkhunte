@@ -2,20 +2,23 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=435&lines=AI%2FML+Engineer;Web3+%26+Blockchain+Developer;Full-Stack+Problem+Solver)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=435&lines=AI%2FML+Engineer;Web3+%26+Blockchain+Developer;Full-Stack+Problem+Solver;Open+for+Freelance+%7C+%2420%2Fhr)](https://git.io/typing-svg)
 
 </div>
 
 ## 🚀 About Me
 
-Building intelligent systems at the intersection of **AI/ML** and **Web3**. Passionate about creating production-ready applications that solve real-world problems.
+Building intelligent systems at the intersection of **AI/ML** and **Web3**. Specialized in shipping production-ready applications that solve real-world problems under constraints (cost, latency, reliability).
 
-Comfortable shipping end-to-end systems under real-world constraints (cost, latency, reliability).
+- 🔭 Currently: AI image generation services & blockchain analytics
+- 🌱 Exploring: DePIN protocols, GPU computing, decentralized systems
+- 💼 **AVAILABLE FOR FREELANCE** — AI/ML deployment, Web3 development, GPU APIs
+- 💵 **Rate:** $20-30/hr (negotiable for long-term projects)
+- 📍 Based in India (IST timezone)
 
-- 🔭 Currently working on AI image generation services and blockchain analytics
-- 🌱 Exploring DePIN protocols, GPU computing, and decentralized systems
-- 💼 Open to freelance opportunities and full-time roles
-- 📍 Based in India
+📋 **Portfolio:** [https://rahulkhunte.github.io/portfolio/](https://rahulkhunte.github.io/portfolio/)
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -42,19 +45,25 @@ Comfortable shipping end-to-end systems under real-world constraints (cost, late
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
+---
+
 ## 🌟 Featured Projects
 
 ### 🤖 [AI Image Generation Bot](https://github.com/rahulkhunte/ai-image-bot)
-Production-ready Telegram bot powered by Stable Diffusion and ComfyUI
-- **Tech:** Python, PyTorch, CUDA, Telegram API
-- **Features:** GPU-accelerated image generation, payment integration, real-time processing
+Production Telegram bot with GPU-accelerated image generation (SDXL Turbo)
+- **Tech:** Python, PyTorch, CUDA, ComfyUI API, Telegram Bot API
+- **Highlights:** Sub-4s generation, 2000+ images processed, crypto payment integration
 - **Status:** ⚙️ Production-ready · Demo paused
+- 📄 [View Portfolio Page](https://rahulkhunte.github.io/portfolio/AI_Image_Bot_Portfolio.html)
 
 ### 🐋 [Crypto Whale Tracker](https://github.com/rahulkhunte/crypto-whale-tracker)
-Real-time Ethereum blockchain monitoring system for detecting large transactions
-- **Tech:** Node.js, ethers.js, WebSocket, Infura
-- **Features:** Live block scanning, whale detection, transaction analytics
+Real-time Ethereum blockchain monitoring for whale transaction detection
+- **Tech:** Node.js, ethers.js, WebSocket, Infura, Express
+- **Highlights:** Live block scanning, $100k+ transaction alerts, WebSocket dashboard
 - **Status:** ✅ Tested & Deployed
+- 📄 [View Portfolio Page](https://rahulkhunte.github.io/portfolio/Crypto_Whale_Tracker_Portfolio.html)
+
+---
 
 ## 📊 GitHub Stats
 
@@ -68,24 +77,40 @@ Real-time Ethereum blockchain monitoring system for detecting large transactions
 
 </div>
 
-## 💼 What I'm Looking For
+---
 
-- 🚀 Full-time roles in AI systems, ML infrastructure, or Web3 engineering
-- 💡 Freelance projects involving GPU inference or blockchain analytics
-- 🤝 Open-source collaborations with real-world impact
-- 📈 Opportunities to build innovative tech solutions
+## 💼 Open For Work
+
+I'm actively seeking opportunities in:
+
+- 🚀 **Freelance projects:** GPU inference APIs, ML model deployment, Web3/DeFi development
+- 💼 **Full-time roles:** AI Systems Engineer, ML Infrastructure, Blockchain Developer
+- 🤝 **Open-source:** Real-world impact projects (DePIN, AI agents, blockchain tools)
+
+**Services I offer:**
+- AI/ML model deployment & optimization (PyTorch, CUDA)
+- Telegram/Discord bot development with payment integration
+- Real-time blockchain analytics & monitoring systems
+- GPU API development & rental infrastructure
+- Docker containerization & VPS management
+
+---
 
 ## 📫 Let's Connect
 
+**💬 Interested in working together?**
+
 [![Email](https://img.shields.io/badge/Email-rahulk.rk903%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahulk.rk903@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-rahulkhunte-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rahulkhunte)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahulkhunte)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Projects-667EEA?style=for-the-badge&logo=react&logoColor=white)](https://rahulkhunte.github.io/portfolio/)
+
+**Response time:** Usually within 12 hours · Available for immediate start
 
 ---
 
 <div align="center">
 
-**💡 "Building the future, one commit at a time"**
+💡 **"Building production systems, not demos"**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rahulkhunte&color=blueviolet&style=for-the-badge)
 
