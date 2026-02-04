@@ -13,10 +13,17 @@ Building intelligent systems at the intersection of **AI/ML** and **Web3**. Spec
 - 🔭 Currently: AI image generation services & blockchain analytics
 - 🌱 Exploring: DePIN protocols, GPU computing, decentralized systems
 - 💼 **AVAILABLE FOR FREELANCE** — AI/ML deployment, Web3 development, GPU APIs
-- 💵 **Rate:** $20-30/hr (negotiable for long-term projects)
 - 📍 Based in India (IST timezone)
 
 📋 **Portfolio:** [https://rahulkhunte.github.io/portfolio/](https://rahulkhunte.github.io/portfolio/)
+
+---
+
+### 🎯 Recent Work
+- 🤖 Deployed production-ready AI image generation service (2000+ images)
+- ⛓️ Built decentralized AI memory network (DAMN) on Ethereum + IPFS
+- 🐋 Real-time blockchain analytics for whale transaction monitoring
+- 🔧 17+ months continuous development in AI/ML and Web3 infrastructure
 
 ---
 
