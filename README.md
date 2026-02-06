@@ -56,19 +56,35 @@ Building intelligent systems at the intersection of **AI/ML** and **Web3**. Spec
 
 ## 🌟 Featured Projects
 
-### 🤖 [AI Image Generation Bot](https://github.com/rahulkhunte/ai-image-bot)
+### 🤖 DAMN - Decentralized AI Memory Network
+Persistent learning and memory-sharing infrastructure for autonomous agents
+- **Tech:** Solidity, Ethereum, IPFS, Python, Web3.py
+- **Highlights:** Built in 3 hours, 98% multi-agent success rate, verified on Sepolia
+- **Architecture:** Matches Nethermind's ChaosChain autonomous agent protocol
+- **Status:** ✅ Deployed & Verified
+- 📄 [Repository](https://github.com/rahulkhunte/DAMN-prototype)
+
+### 🧠 PDF RAG Chatbot with L40 GPU
+Production document Q&A system using Retrieval Augmented Generation
+- **Tech:** LangChain, ChromaDB, Llama 3.1, Streamlit, L40 GPU (46GB)
+- **Highlights:** 1.07s response time, $10/month infrastructure, zero API costs
+- **Development:** Built in 1 night, deployed for client work
+- **Status:** ✅ Client project - production deployment
+- 📄 [Repository](https://github.com/rahulkhunte/PDF-RAG-Chatbot) | [Portfolio Page](https://rahulkhunte.github.io/portfolio/pdf-chatbot.html)
+
+### 🎨 AI Image Generation Bot
 Production Telegram bot with GPU-accelerated image generation (SDXL Turbo)
 - **Tech:** Python, PyTorch, CUDA, ComfyUI API, Telegram Bot API
 - **Highlights:** Sub-4s generation, 2000+ images processed, crypto payment integration
 - **Status:** ⚙️ Production-ready · Demo paused
-- 📄 [View Portfolio Page](https://rahulkhunte.github.io/portfolio/AI_Image_Bot_Portfolio.html)
+- 📄 [Repository](https://github.com/rahulkhunte/ai-image-bot)  | [View Portfolio Page](https://rahulkhunte.github.io/portfolio/AI_Image_Bot_Portfolio.html)
 
-### 🐋 [Crypto Whale Tracker](https://github.com/rahulkhunte/crypto-whale-tracker)
+### 🐋 Crypto Whale Tracker
 Real-time Ethereum blockchain monitoring for whale transaction detection
 - **Tech:** Node.js, ethers.js, WebSocket, Infura, Express
-- **Highlights:** Live block scanning, $100k+ transaction alerts, WebSocket dashboard
+- **Highlights:** Live block scanning, $100k+ transaction alerts, built in 1 hour
 - **Status:** ✅ Tested & Deployed
-- 📄 [View Portfolio Page](https://rahulkhunte.github.io/portfolio/Crypto_Whale_Tracker_Portfolio.html)
+- 📄 [Repository](https://github.com/rahulkhunte/crypto-whale-tracker)  | [View Portfolio Page](https://rahulkhunte.github.io/portfolio/Crypto_Whale_Tracker_Portfolio.html)
 
 ---
 
