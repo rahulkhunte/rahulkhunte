@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=435&lines=AI%2FML+Engineer;Web3+%26+Blockchain+Developer;Full-Stack+Problem+Solver;Open+for+Freelance+%7C+%2420%2Fhr)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=435&lines=AI%2FML+Engineer;Web3+%26+Blockchain+Developer;Full-Stack+Problem+Solver;Open+for+Freelance+%7C+%2425%2Fhr)](https://git.io/typing-svg)
 
 </div>
 
@@ -20,6 +20,8 @@ Building intelligent systems at the intersection of **AI/ML** and **Web3**. Spec
 ---
 
 ### 🎯 Recent Work
+- 🎨 Generated 36+ professional images: luxury architecture,
+   astrophotography, Samsung Frame TV art using ComfyUI + Flux.1-dev
 - 🤖 Deployed production-ready AI image generation service (2000+ images)
 - ⛓️ Built decentralized AI memory network (DAMN) on Ethereum + IPFS
 - 🐋 Real-time blockchain analytics for whale transaction monitoring
@@ -28,6 +30,11 @@ Building intelligent systems at the intersection of **AI/ML** and **Web3**. Spec
 ---
 
 ## 🛠️ Tech Stack
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -59,30 +66,39 @@ Building intelligent systems at the intersection of **AI/ML** and **Web3**. Spec
 ### 🤖 DAMN - Decentralized AI Memory Network
 Persistent learning and memory-sharing infrastructure for autonomous agents
 - **Tech:** Solidity, Ethereum, IPFS, Python, Web3.py
-- **Highlights:** Built in 3 hours, 98% multi-agent success rate, verified on Sepolia
+- **Highlights:** 98% multi-agent success rate, verified on Sepolia, "Deployed within 24 hours of concept"
 - **Architecture:** Matches Nethermind's ChaosChain autonomous agent protocol
 - **Status:** ✅ Deployed & Verified
 - 📄 [Repository](https://github.com/rahulkhunte/DAMN-prototype)
+
+### 🎨 ComfyUI AI Image Generation Pipeline
+Professional image generation using SDXL + Flux.1-dev workflows
+- **Tech:** ComfyUI, Stable Diffusion, ControlNet, LoRA, Flux.1-dev
+- **Highlights:** 36+ images, architecture visualization, 
+  NASA astrophotography LoRA, Samsung Frame TV art at 2048x1152
+- **Workflows:** Reusable .json pipelines, bulk generation ready
+- **Status:** ✅ Active · Available for client projects
+**Services Offered** - ComfyUI workflow development (ControlNet, LoRA, Flux, SDXL)
 
 ### 🧠 PDF RAG Chatbot with L40 GPU
 Production document Q&A system using Retrieval Augmented Generation
 - **Tech:** LangChain, ChromaDB, Llama 3.1, Streamlit, L40 GPU (46GB)
 - **Highlights:** 1.07s response time, $10/month infrastructure, zero API costs
-- **Development:** Built in 1 night, deployed for client work
+- **Development:** Rapid prototyping to production, deployed for client work
 - **Status:** ✅ Client project - production deployment
 - 📄 [Repository](https://github.com/rahulkhunte/PDF-RAG-Chatbot) | [Portfolio Page](https://rahulkhunte.github.io/portfolio/pdf-chatbot.html)
 
-### 🎨 AI Image Generation Bot
+### 🤖 AI Image Generation Bot
 Production Telegram bot with GPU-accelerated image generation (SDXL Turbo)
 - **Tech:** Python, PyTorch, CUDA, ComfyUI API, Telegram Bot API
 - **Highlights:** Sub-4s generation, 2000+ images processed, crypto payment integration
-- **Status:** ⚙️ Production-ready · Demo paused
+- **Status:** ⚙️ Production-deployed · Available for client projects
 - 📄 [Repository](https://github.com/rahulkhunte/ai-image-bot)  | [View Portfolio Page](https://rahulkhunte.github.io/portfolio/AI_Image_Bot_Portfolio.html)
 
 ### 🐋 Crypto Whale Tracker
 Real-time Ethereum blockchain monitoring for whale transaction detection
 - **Tech:** Node.js, ethers.js, WebSocket, Infura, Express
-- **Highlights:** Live block scanning, $100k+ transaction alerts, built in 1 hour
+- **Highlights:** Live block scanning, $100k+ transaction alerts
 - **Status:** ✅ Tested & Deployed
 - 📄 [Repository](https://github.com/rahulkhunte/crypto-whale-tracker)  | [View Portfolio Page](https://rahulkhunte.github.io/portfolio/Crypto_Whale_Tracker_Portfolio.html)
 
@@ -126,6 +142,8 @@ I'm actively seeking opportunities in:
 [![Email](https://img.shields.io/badge/Email-rahulk.rk903%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahulk.rk903@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-rahulkhunte-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rahulkhunte)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live_Projects-667EEA?style=for-the-badge&logo=react&logoColor=white)](https://rahulkhunte.github.io/portfolio/)
+[![Upwork](https://img.shields.io/badge/Upwork-Hire_Me-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01f1b30553a555730f)
+
 
 **Response time:** Usually within 12 hours · Available for immediate start
 
