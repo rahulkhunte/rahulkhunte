@@ -25,7 +25,7 @@ Building intelligent systems at the intersection of **AI/ML** and **Web3**. Spec
 - 🤖 Deployed production-ready AI image generation service (2000+ images)
 - ⛓️ Built decentralized AI memory network (DAMN) on Ethereum + IPFS
 - 🐋 Real-time blockchain analytics for whale transaction monitoring
-- 🔧 17+ months continuous development in AI/ML and Web3 infrastructure
+- 🔧 19+ months continuous development in AI/ML and Web3 infrastructure
 
 ---
 
