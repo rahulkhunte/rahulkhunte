@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-Building intelligent systems at the intersection of **AI/ML** and **Web3**. Specialized in shipping production-ready applications that solve real-world problems under constraints (cost, latency, reliability).
+Self learner & executor building intelligent systems at the intersection of **AI/ML** and **Web3**. Specialized in shipping production-ready applications that solve real-world problems under constraints (cost, latency, reliability).
 
 - 🔭 Currently: AI image generation services & blockchain analytics
 - 🌱 Exploring: DePIN protocols, GPU computing, decentralized systems
