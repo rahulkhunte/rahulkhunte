@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=435&lines=AI%2FML+Engineer;Web3+%26+Blockchain+Developer;Full-Stack+Problem+Solver;Open+for+Freelance+%7C+%2425%2Fhr;Connect+on+LinkedIn)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=435&lines=AI%2FML+Engineer;Web3+%26+Blockchain+Developer;Full-Stack+Problem+Solver;Open+for+Freelance)](https://git.io/typing-svg)
 
 </div>
 
@@ -144,13 +144,9 @@ I'm actively seeking opportunities in:
 
 **💬 Interested in working together?**
 
-[![Email](https://img.shields.io/badge/Email-rahulk.rk903%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahulk.rk903@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-rahulkhunte-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahulkhunte)
 [![GitHub](https://img.shields.io/badge/GitHub-rahulkhunte-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rahulkhunte)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live_Projects-667EEA?style=for-the-badge&logo=react&logoColor=white)](https://rahulkhunte.github.io/portfolio/)
 [![Upwork](https://img.shields.io/badge/Upwork-Hire_Me-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01f1b30553a555730f)
-
-**Response time:** Usually within 12 hours · Available for immediate start
 
 ---
 
